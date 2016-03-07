@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pedestrian]]></title>
         <description><![CDATA[Pedestrian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pedestrian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 20:56:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 16:38:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pedestrian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94007b69-57c1-405f-8b53-e8dfd11f5dcc.jpg">]]></description>
+            <link>https://thegrid.ai/pedestrian/3a8f8116-79fa-42bb-8a02-7858d753cea6/index.html</link>
+            <guid isPermaLink="false">3a8f8116-79fa-42bb-8a02-7858d753cea6</guid>
+            <pubDate>Mon, 07 Mar 2016 16:38:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc884132-dddc-453f-9b97-fc77190cd723.jpg">]]></description>
-            <link>undefinedc3cc2fc2-9533-4e99-87f4-e2229a796fb2/index.html</link>
+            <link>https://thegrid.ai/pedestrian/c3cc2fc2-9533-4e99-87f4-e2229a796fb2/index.html</link>
             <guid isPermaLink="false">c3cc2fc2-9533-4e99-87f4-e2229a796fb2</guid>
             <pubDate>Sun, 06 Mar 2016 20:56:17 GMT</pubDate>
         </item>
